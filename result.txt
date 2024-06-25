@@ -1,0 +1,29 @@
+Page reference : (1,0,1)
+Page Fault : (0, 1)
+Page reference : (2,0,1)
+Page reference : (3,0,1)
+Page reference : (4,0,1)
+Page reference : (5,0,1244)
+Invalid Page Reference : (0 1244)
+Page reference : (6,1,1)
+Page Fault : (1, 1)
+Page reference : (7,1,1)
+Page reference : (8,1,0)
+Page Fault : (1, 0)
+Page reference : (9,1,0)
+Page reference : (10,1,1)
+Page reference : (11,1,1)
+Page reference : (12,1,1)
+Page reference : (13,1,0)
+Page reference : (14,1,1)
+Page reference : (15,1,0)
+Page reference : (16,1,1)
+Page reference : (17,1,1798)
+Invalid Page Reference : (1 1798)
+Page reference : (18,2,665)
+Invalid Page Reference : (2 665)
+Page fault Count for each Process:
+Process Id	Freq
+0	1
+1	2
+2	0
